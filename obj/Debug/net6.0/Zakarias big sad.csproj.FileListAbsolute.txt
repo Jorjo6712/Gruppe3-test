@@ -1,0 +1,15 @@
+C:\Users\zbczhhj\Desktop\C#\Zakarias big sad\obj\Debug\net6.0\Zakarias big sad.csproj.AssemblyReference.cache
+C:\Users\zbczhhj\Desktop\C#\Zakarias big sad\obj\Debug\net6.0\Zakarias big sad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbczhhj\Desktop\C#\Zakarias big sad\obj\Debug\net6.0\Zakarias big sad.AssemblyInfoInputs.cache
+C:\Users\zbczhhj\Desktop\C#\Zakarias big sad\obj\Debug\net6.0\Zakarias big sad.AssemblyInfo.cs
+C:\Users\zbczhhj\Desktop\C#\Zakarias big sad\obj\Debug\net6.0\Zakarias big sad.csproj.CoreCompileInputs.cache
+C:\Users\zbczhhj\Desktop\C#\Zakarias big sad\bin\Debug\net6.0\Zakarias big sad.exe
+C:\Users\zbczhhj\Desktop\C#\Zakarias big sad\bin\Debug\net6.0\Zakarias big sad.deps.json
+C:\Users\zbczhhj\Desktop\C#\Zakarias big sad\bin\Debug\net6.0\Zakarias big sad.runtimeconfig.json
+C:\Users\zbczhhj\Desktop\C#\Zakarias big sad\bin\Debug\net6.0\Zakarias big sad.dll
+C:\Users\zbczhhj\Desktop\C#\Zakarias big sad\bin\Debug\net6.0\Zakarias big sad.pdb
+C:\Users\zbczhhj\Desktop\C#\Zakarias big sad\obj\Debug\net6.0\Zakarias big sad.dll
+C:\Users\zbczhhj\Desktop\C#\Zakarias big sad\obj\Debug\net6.0\refint\Zakarias big sad.dll
+C:\Users\zbczhhj\Desktop\C#\Zakarias big sad\obj\Debug\net6.0\Zakarias big sad.pdb
+C:\Users\zbczhhj\Desktop\C#\Zakarias big sad\obj\Debug\net6.0\Zakarias big sad.genruntimeconfig.cache
+C:\Users\zbczhhj\Desktop\C#\Zakarias big sad\obj\Debug\net6.0\ref\Zakarias big sad.dll
